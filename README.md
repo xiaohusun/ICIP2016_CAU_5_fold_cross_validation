@@ -1,4 +1,4 @@
-We release the 5 fold cross validation test setting on CAU for easy and fair comparison between methods.
+We release the 5-fold cross validation test setting on CAU for easy and fair comparison between methods.
 
 The test setting is adopted in our ICIP 2016 paper (submitted) on age estimation.
 
