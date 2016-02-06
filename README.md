@@ -2,6 +2,6 @@ We release the 5-fold cross validation test setting on CAU for easy and fair com
 
 The test setting is adopted in our ICIP 2016 paper (submitted) on age estimation.
 
-Point (facial landmarks) files of the images in CAU can be download from 
+Point (facial landmarks) files of the images in CAU can be downloaded from 
 
 http://www.iis.sinica.edu.tw/~kuangyu/OHRank.htm
